@@ -45,3 +45,24 @@ Given a and b, determine their respective comparison points.
 ```
 
 #### Solved in ./compareTriplets.ts
+
+### Four problem
+
+#### Complete the aVeryBigSum function in the editor below. It must return the sum of all array elements. https://www.hackerrank.com/challenges/a-very-big-sum/
+
+```
+Function Description
+
+Complete the aVeryBigSum function in the editor below. It must return the sum of all array elements.
+
+aVeryBigSum has the following parameter(s):
+
+    int ar[n]: an array of integers .
+
+Return
+
+    long: the sum of all array elements
+
+```
+
+#### Solved in ./aVeryBigSum.ts
