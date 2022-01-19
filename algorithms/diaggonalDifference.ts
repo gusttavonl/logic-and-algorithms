@@ -1,4 +1,4 @@
-const diagonalDifference = (array) => {
+const diagonalDifference = (array: [number[]]) => {
   const arrayLentgh = array.length;
   let diagonalOne = 0;
   let diagonalTwo = 0;
