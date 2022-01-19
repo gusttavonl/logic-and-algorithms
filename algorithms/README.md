@@ -66,3 +66,22 @@ Return
 ```
 
 #### Solved in ./aVeryBigSum.ts
+
+#### Given a square matrix, calculate the absolute difference between the sums of its diagonals. https://www.hackerrank.com/challenges/diagonal-difference/
+
+```
+Complete the
+
+function in the editor below.
+
+diagonalDifference takes the following parameter:
+
+    int arr[n][m]: an array of integers
+
+Return
+
+    int: the absolute diagonal difference
+
+```
+
+#### Solved in ./diaggonalDifference.ts
