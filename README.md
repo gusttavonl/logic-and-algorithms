@@ -5,3 +5,7 @@
 ## Algorithms
 
 #### Solved problems of https://www.hackerrank.com/domains/algorithms in ./algorithms
+
+## SQL
+
+#### Solved problems of https://www.hackerrank.com/domains/sql in ./sql
