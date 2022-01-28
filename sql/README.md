@@ -5,3 +5,11 @@
 #### Query the NAME field for all American cities in the CITY table with populations larger than 120000. The CountryCode for America is USA. https://www.hackerrank.com/challenges/revising-the-select-query-2/
 
 #### Solved in ./revisingTheSelectQueryTwo.sql
+
+#### Query all columns (attributes) for every row in the CITY table. https://www.hackerrank.com/challenges/select-all-sql/
+
+#### Solved in ./selectAll.sql
+
+#### Query all columns for a city in CITY with the ID 1661. https://www.hackerrank.com/challenges/select-by-id/
+
+#### Solved in ./selectById.sql
