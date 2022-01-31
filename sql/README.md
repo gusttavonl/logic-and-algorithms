@@ -14,6 +14,6 @@
 
 #### Solved in ./selectById.sql
 
-#### QQuery all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN. https://www.hackerrank.com/challenges/japanese-cities-attributes
+#### Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN. https://www.hackerrank.com/challenges/japanese-cities-attributes
 
 #### Solved in ./japaneseCitiesAttributes.sql
