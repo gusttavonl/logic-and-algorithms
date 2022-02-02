@@ -21,3 +21,7 @@
 #### Query the names of all the Japanese cities in the CITY table. The COUNTRYCODE for Japan is JPN. https://www.hackerrank.com/challenges/japanese-cities-name/
 
 #### Solved in ./japaneseCitiesNames.sql
+
+#### Query a list of CITY and STATE from the STATION table. https://www.hackerrank.com/challenges/weather-observation-station-1/
+
+#### Solved in ./weatherObservationStationOne.sql
