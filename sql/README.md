@@ -33,3 +33,11 @@
 #### Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table. For example, if there are three records in the table with CITY values 'New York', 'New York', 'Bengalaru', there are 2 different city names: 'New York' and 'Bengalaru'. The query returns 1. https://www.hackerrank.com/challenges/weather-observation-station-4/
 
 #### Solved in ./weatherObservationStationFour.sql
+
+#### Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from STATION. Your result cannot contain duplicates. https://www.hackerrank.com/challenges/weather-observation-station-6/
+
+#### Solved in ./weatherObservationStationSix.sql
+
+#### Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths (i.e.: number of characters in the name). If there is more than one smallest or largest city, choose the one that comes first when ordered alphabetically. https://www.hackerrank.com/challenges/weather-observation-station-5/
+
+#### Solved in ./weatherObservationStationFive.sql
