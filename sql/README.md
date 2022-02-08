@@ -40,4 +40,8 @@
 
 #### Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths (i.e.: number of characters in the name). If there is more than one smallest or largest city, choose the one that comes first when ordered alphabetically. https://www.hackerrank.com/challenges/weather-observation-station-5/
 
-#### Solved in ./weatherObservationStationFive.sql
+#### Solved in ./weatherObservationStationSeven.sql
+
+#### Query the list of CITY names ending with vowels (a, e, i, o, u) from STATION. Your result cannot contain duplicates. https://www.hackerrank.com/challenges/weather-observation-station-7/
+
+#### Solved in ./weatherObservationStationSeven.sql
