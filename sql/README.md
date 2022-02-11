@@ -53,3 +53,7 @@
 #### Query the list of CITY names from STATION that do not start with vowels. Your result cannot contain duplicates. https://www.hackerrank.com/challenges/weather-observation-station-9/
 
 #### Solved in ./weatherObservationStationNine.sql
+
+#### Query the list of CITY names from STATION that do not end with vowels. Your result cannot contain duplicates. https://www.hackerrank.com/challenges/weather-observation-station-10/
+
+#### Solved in ./weatherObservationStationTen.sql
