@@ -89,3 +89,7 @@
 #### Pivot the Occupation column in OCCUPATIONS so that each Name is sorted alphabetically and displayed underneath its corresponding Occupation. The output column headers should be Doctor, Professor, Singer, and Actor, respectively. https://www.hackerrank.com/challenges/occupations/
 
 #### Solved in ./occupations.sql
+
+#### You are given a table, BST, containing two columns: N and P, where N represents the value of a node in Binary Tree, and P is the parent of N. Write a query to find the node type of Binary Tree ordered by the value of the node. Output one of the following for each node: Root: If node is root node. Leaf: If node is leaf node. Inner: If node is neither root nor leaf node. https://www.hackerrank.com/challenges/binary-search-tree-1/
+
+#### Solved in ./binaryTreeNodes.sql
